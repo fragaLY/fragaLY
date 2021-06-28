@@ -9,3 +9,5 @@ Familiar with <a href="https://reactjs.org/">ReactJS</a>, <a href="https://vuejs
 <p align="center"> 
 <a href="https://www.linkedin.com/in/vadzimkavalkou/" target="blank"><img align="center" src="http://simpleicon.com/wp-content/uploads/linkedin_1.svg" alt="vadzimkavalkou" height="30" width="40"/></a>
 </p>
+
+Feel free to take a look on my <a href="https://gist.github.com/fragaLY" target="blank">gists</a>.
