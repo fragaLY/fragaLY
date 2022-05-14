@@ -10,21 +10,39 @@
 ### 🎥 TECHTALKS
 
 * ✅	[HAPI FHIR JPA Server Performance Tuning](https://wearecommunity.io/events/aen-meetup-performance-investigations-hapi-fhir-jpa-server-tuning/talks/16982)
-* ❎ [in progress] Spring Native vs Spring Boot
+* ❎ [in progress] [Performance Battle] [Fight 1] Spring Native vs Spring Boot [~ 30 June]
+* ❎ [in progress] [Performance Battle] [Fight 2] TBA vs TBA [~ 30 July]
+* ❎ [in progress] [Performance Battle] [Fight 3] TBA vs TBA [~ 30 August]
+* ❎ [in progress] [Performance Battle] [Fight 4] TBA vs TBA [~ 30 September]
+* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 October]
+* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 November]
+* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 December]
 
 ### ✍️ RESEARCHES AND SOME NOTES
 
 * ✅	[HAPI FHIR JPA Server Performance Tuning](https://github.com/fragaLY/blog/blob/main/hapi-fhir-jpaserver/HAPI-FHIR-JPASERVER.md)
 * ✅	[Spring Kafka Typical Settings](https://github.com/fragaLY/blog/blob/main/spring-kafka/SPRING-KAFKA-TYPICAL-SETTINGS.md)
-* ❎ [in progress] Spring Native vs Spring Boot
+* ❎ [in progress] [Performance Battle] [Fight 1] Spring Native vs Spring Boot [~ 30 June]
+* ❎ [in progress] [Performance Battle] [Fight 2] TBA vs TBA [~ 30 July]
+* ❎ [in progress] [Performance Battle] [Fight 3] TBA vs TBA [~ 30 August]
+* ❎ [in progress] [Performance Battle] [Fight 4] TBA vs TBA [~ 30 September]
+* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 October]
+* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 November]
+* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 December]
 
 ### 🌐 PUBLIC ACTIVITY
 
 * ✅	[Gitlab CI/CD for Openshit with Minio Cache support, Grype Scan and Sonar linting](https://www.linkedin.com/posts/vadzimkavalkou_gitlab-cicd-for-openshit-with-minio-cache-activity-6925076570030137344-7hw1?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ✅	[SonarQube Quality Gates](https://www.linkedin.com/posts/vadzimkavalkou_quality-sonarqube-pipeline-activity-6927978778790879232-NjO8?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ✅	[HAPI FHIR JPA Server Performance Tuning](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6930854021268131840-RXhV?utm_source=linkedin_share&utm_medium=member_desktop_web)
-* ❎ [in progress] Spring Kafka Typical Settings
-* ❎ [in progress] Spring Native vs Spring Boot
+* ❎ [in progress] Spring Kafka Typical Settings [20 May]
+* ❎ [in progress] [Performance Battle] [Fight 1] Spring Native vs Spring Boot [~ 30 June]
+* ❎ [in progress] [Performance Battle] [Fight 2] TBA vs TBA [~ 30 July]
+* ❎ [in progress] [Performance Battle] [Fight 3] TBA vs TBA [~ 30 August]
+* ❎ [in progress] [Performance Battle] [Fight 4] TBA vs TBA [~ 30 September]
+* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 October]
+* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 November]
+* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 December]
 
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=advanced)
 ![kotlin](https://img.shields.io/static/v1?logo=kotlin&style=for-the-badge&label=kotlin&message=intermediate)
