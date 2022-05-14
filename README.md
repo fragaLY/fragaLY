@@ -15,8 +15,8 @@
 * ❎ [in progress] [Performance Battle] [Fight 3] TBA vs TBA [~ 30 August]
 * ❎ [in progress] [Performance Battle] [Fight 4] TBA vs TBA [~ 30 September]
 * ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 October]
-* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 November]
-* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 December]
+* ❎ [in progress] [Performance Battle] [Fight 6] TBA vs TBA [~ 30 November]
+* ❎ [in progress] [Performance Battle] [Fight 7] TBA vs TBA [~ 30 December]
 
 ### ✍️ RESEARCHES AND SOME NOTES
 
@@ -27,8 +27,8 @@
 * ❎ [in progress] [Performance Battle] [Fight 3] TBA vs TBA [~ 30 August]
 * ❎ [in progress] [Performance Battle] [Fight 4] TBA vs TBA [~ 30 September]
 * ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 October]
-* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 November]
-* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 December]
+* ❎ [in progress] [Performance Battle] [Fight 6] TBA vs TBA [~ 30 November]
+* ❎ [in progress] [Performance Battle] [Fight 7] TBA vs TBA [~ 30 December]
 
 ### 🌐 PUBLIC ACTIVITY
 
@@ -41,8 +41,8 @@
 * ❎ [in progress] [Performance Battle] [Fight 3] TBA vs TBA [~ 30 August]
 * ❎ [in progress] [Performance Battle] [Fight 4] TBA vs TBA [~ 30 September]
 * ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 October]
-* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 November]
-* ❎ [in progress] [Performance Battle] [Fight 5] TBA vs TBA [~ 30 December]
+* ❎ [in progress] [Performance Battle] [Fight 6] TBA vs TBA [~ 30 November]
+* ❎ [in progress] [Performance Battle] [Fight 7] TBA vs TBA [~ 30 December]
 
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=advanced)
 ![kotlin](https://img.shields.io/static/v1?logo=kotlin&style=for-the-badge&label=kotlin&message=intermediate)
