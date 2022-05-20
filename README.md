@@ -35,7 +35,7 @@
 * ✅	[Gitlab CI/CD for Openshit with Minio Cache support, Grype Scan and Sonar linting](https://www.linkedin.com/posts/vadzimkavalkou_gitlab-cicd-for-openshit-with-minio-cache-activity-6925076570030137344-7hw1?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ✅	[SonarQube Quality Gates](https://www.linkedin.com/posts/vadzimkavalkou_quality-sonarqube-pipeline-activity-6927978778790879232-NjO8?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ✅	[HAPI FHIR JPA Server Performance Tuning](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6930854021268131840-RXhV?utm_source=linkedin_share&utm_medium=member_desktop_web)
-* ❎ [in progress] Spring Kafka Typical Settings [20 May]
+* ❎ [Spring Kafka Typical Settings](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6933311242644152320-h1hN?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ❎ [in progress] [Performance Battle] [Fight 1] Spring Boot Web vs Spring Boot Web Native [~ 30 June]
 * ❎ [in progress] [Performance Battle] [Fight 2] Spring Boot Reactive vs Spring Boot Reactive Native [~ 30 July]
 * ❎ [in progress] [Performance Battle] [Fight 3] TBA vs TBA [~ 30 August]
