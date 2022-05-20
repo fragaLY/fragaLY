@@ -11,12 +11,13 @@
 
 * ✅	[HAPI FHIR JPA Server Performance Tuning](https://wearecommunity.io/events/aen-meetup-performance-investigations-hapi-fhir-jpa-server-tuning/talks/16982)
 * ❎ [in progress] [Performance Battle] [Fight 1] [Spring Boot Web](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html) vs Spring Boot Web Native [~ 30 June]
-* ❎ [in progress] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 20 July]
-* ❎ [in progress] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 20 August]
-* ❎ [in progress] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 20 September]
-* ❎ [in progress] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native [~ 20 October]
-* ❎ [in progress] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native [~ 20 November]
-* ❎ [in progress] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native [~ 20 December]
+* ❎ [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 20 July]
+* ❎ [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 20 August]
+* ❎ [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 20 September]
+* ❎ [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native [~ 20 October]
+* ❎ [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native [~ 20 November]
+* ❎ [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native [~ 20 December]
+* ❎ [planned] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
 * ❎ [in progress] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
 
 ### ✍️ RESEARCHES AND SOME NOTES
@@ -25,13 +26,14 @@
 * ✅	[Spring Kafka Typical Settings](https://github.com/fragaLY/blog/blob/main/spring-kafka/SPRING-KAFKA-TYPICAL-SETTINGS.md)
 * ❎ [Gatling Java Gradle Setup]() [~ 26 March]
 * ❎ [in progress] [Performance Battle] [Fight 1] [Spring Boot Web](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html) vs Spring Boot Web Native [~ 30 June]
-* ❎ [in progress] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 20 July]
-* ❎ [in progress] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 20 August]
-* ❎ [in progress] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 20 September]
-* ❎ [in progress] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native [~ 20 October]
-* ❎ [in progress] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native [~ 20 November]
-* ❎ [in progress] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native [~ 20 December]
-* ❎ [in progress] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
+* ❎ [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 20 July]
+* ❎ [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 20 August]
+* ❎ [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 20 September]
+* ❎ [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native [~ 20 October]
+* ❎ [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native [~ 20 November]
+* ❎ [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native [~ 20 December]
+* ❎ [planned] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
+* ❎ [planned] FINE-GRAINED TUNING OF EACH FRAMEWORK.
 
 ### 🌐 PUBLIC ACTIVITY
 
@@ -41,12 +43,13 @@
 * ✅ [Spring Kafka Typical Settings](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6933311242644152320-h1hN?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ❎ [Gatling Java Gradle Setup]() [~ 26 March]
 * ❎ [in progress] [Performance Battle] [Fight 1] [Spring Boot Web](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html) vs Spring Boot Web Native [~ 30 June]
-* ❎ [in progress] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 20 July]
-* ❎ [in progress] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 20 August]
-* ❎ [in progress] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 20 September]
-* ❎ [in progress] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native [~ 20 October]
-* ❎ [in progress] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native [~ 20 November]
-* ❎ [in progress] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native [~ 20 December]
+* ❎ [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 20 July]
+* ❎ [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 20 August]
+* ❎ [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 20 September]
+* ❎ [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native [~ 20 October]
+* ❎ [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native [~ 20 November]
+* ❎ [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native [~ 20 December]
+* ❎ [planned] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
 * ❎ [in progress] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
 
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=advanced)
