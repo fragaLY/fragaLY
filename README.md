@@ -24,6 +24,7 @@
 
 * ✅	[HAPI FHIR JPA Server Performance Tuning](https://github.com/fragaLY/blog/blob/main/hapi-fhir-jpaserver/HAPI-FHIR-JPASERVER.md)
 * ✅	[Spring Kafka Typical Settings](https://github.com/fragaLY/blog/blob/main/spring-kafka/SPRING-KAFKA-TYPICAL-SETTINGS.md)
+* ✅	[Custom Postgres Docker image with predefined data](https://github.com/fragaLY/blog/blob/main/postgres-custom-image/POSTGRES-CUSTOM-IMAGE.md)
 * ❎ [Gatling Java Gradle Setup]() [~ 26 March]
 * ❎ [in progress] [Performance Battle] [Fight 1] [Spring Boot Web](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html) vs Spring Boot Web Native [~ 30 June]
 * ❎ [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 20 July]
@@ -41,7 +42,8 @@
 * ✅	[SonarQube Quality Gates](https://www.linkedin.com/posts/vadzimkavalkou_quality-sonarqube-pipeline-activity-6927978778790879232-NjO8?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ✅	[HAPI FHIR JPA Server Performance Tuning](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6930854021268131840-RXhV?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ✅ [Spring Kafka Typical Settings](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6933311242644152320-h1hN?utm_source=linkedin_share&utm_medium=member_desktop_web)
-* ❎ [Gatling Java Gradle Setup]() [~ 26 March]
+* ❎ [Custom Postgres Docker image with predefined data]() [~ 26 March]
+* ❎ [Gatling Java Gradle Setup]() [~ 31 March]
 * ❎ [in progress] [Performance Battle] [Fight 1] [Spring Boot Web](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html) vs Spring Boot Web Native [~ 30 June]
 * ❎ [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 20 July]
 * ❎ [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 20 August]
