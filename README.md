@@ -18,14 +18,15 @@
 * ❎ [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native [~ 20 November]
 * ❎ [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native [~ 20 December]
 * ❎ [planned] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
-* ❎ [in progress] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
+* ❎ [planned] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
+* ❎ [planned] FINE-GRAINED TUNING OF EACH FRAMEWORK.
 
 ### ✍️ RESEARCHES AND SOME NOTES
 
 * ✅	[HAPI FHIR JPA Server Performance Tuning](https://github.com/fragaLY/blog/blob/main/hapi-fhir-jpaserver/HAPI-FHIR-JPASERVER.md)
 * ✅	[Spring Kafka Typical Settings](https://github.com/fragaLY/blog/blob/main/spring-kafka/SPRING-KAFKA-TYPICAL-SETTINGS.md)
 * ✅	[Custom Postgres Docker image with predefined data](https://github.com/fragaLY/blog/blob/main/postgres-custom-image/POSTGRES-CUSTOM-IMAGE.md)
-* ❎ [Gatling Java Gradle Setup]() [~ 26 March]
+* ❎ [Gatling Java Gradle Setup]() [~ 1 June]
 * ❎ [in progress] [Performance Battle] [Fight 1] [Spring Boot Web](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html) vs Spring Boot Web Native [~ 30 June]
 * ❎ [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 20 July]
 * ❎ [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 20 August]
@@ -52,7 +53,7 @@
 * ❎ [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native [~ 20 November]
 * ❎ [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native [~ 20 December]
 * ❎ [planned] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
-* ❎ [in progress] [Performance Battle] [Final Fight] Chose a winner [~ 30 December]
+* ❎ [planned] FINE-GRAINED TUNING OF EACH FRAMEWORK.
 
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=advanced)
 ![kotlin](https://img.shields.io/static/v1?logo=kotlin&style=for-the-badge&label=kotlin&message=intermediate)
