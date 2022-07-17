@@ -26,7 +26,7 @@
 * ✅	🇬🇧 [Spring Kafka Typical Settings](https://github.com/fragaLY/blog/blob/main/spring-kafka/SPRING-KAFKA-TYPICAL-SETTINGS.md)
 * ✅	🇬🇧 [Custom Postgres Docker image with predefined data](https://github.com/fragaLY/blog/blob/main/postgres-custom-image/POSTGRES-CUSTOM-IMAGE.md)
 * ✅ 🇬🇧 [Gatling Java Gradle Setup](https://github.com/fragaLY/blog/blob/main/gatling-java-gradle-setup/GATLING-JAVA-GRADLE-SETUP.md)
-* ✅ 🇬🇧 [Performance Battle - Fight 1: Spring Boot Web vs Spring Boot Web Native](https://github.com/fragaLY/blog/blob/main/spring-boot-web_vs_spring-boot-web-native/SPRING-BOOT-WEB_VS_SPRING-BOOT-WEB-NATIVE.md)
+* ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Boot Web vs Spring Boot Web Native](https://github.com/fragaLY/blog/blob/main/spring-boot-web_vs_spring-boot-web-native/SPRING-BOOT-WEB_VS_SPRING-BOOT-WEB-NATIVE.md)
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 30 August 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 30 September 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 30 October 2022]
@@ -43,7 +43,7 @@
 * ✅ 🇬🇧 [Spring Kafka Typical Settings](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6933311242644152320-h1hN?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ✅ 🇬🇧 [Custom Postgres Docker image with predefined data](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6935504139665747969-7bzN?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ✅ 🇬🇧 [Gatling Java Gradle Setup](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6943509537580572672-S_Z9?utm_source=linkedin_share&utm_medium=member_desktop_web). This post reposted by [Gatling LinkedIn Profile](https://www.linkedin.com/posts/gatling_github-fragalyblog-my-technical-investigations-activity-6944652888241545216-E-mN?utm_source=linkedin_share&utm_medium=member_desktop_web)
-* ✅ 🇬🇧 [in progress] [Performance Battle] [Fight 1] [Spring Boot Web](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html) vs Spring Boot Web Native [~ 23 July 2022]
+* ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Boot Web vs Spring Boot Web Native](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6954495293006434304-yBWj?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 30 August 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 30 September 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 30 October 2022]
