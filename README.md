@@ -10,8 +10,8 @@
 ### 🎥 TECHTALKS
 
 * ✅	🇷🇺 [HAPI FHIR JPA Server Performance Tuning](https://wearecommunity.io/events/aen-meetup-performance-investigations-hapi-fhir-jpa-server-tuning/talks/16982)
-* ✅ 🇷🇺 [in progress] [Podlodka Backend Crew Meetup](https://podlodka.io/becrew#buy) 
-* ✅ 🇬🇧 [in progress] [Performance Battle - Fight 1 - Spring Boot Web vs Spring Boot Web Native](https://github.com/fragaLY) [~ 23 July 2022]
+* ✅ 🇷🇺 [Podlodka Backend Crew Meetup](https://podlodka.io/becrew#buy)
+* ✅ 🇬🇧 [in progress] [Performance Battle - Fight 1 - Spring Boot Web vs Spring Boot Web Native](https://github.com/fragaLY) [~ end of August 2022. In scope of different EPAM Communities and ASE Community for sure]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 30 August 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 30 September 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 30 October 2022]
