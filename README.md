@@ -11,8 +11,8 @@
 
 * ✅	🇷🇺 [HAPI FHIR JPA Server Performance Tuning](https://wearecommunity.io/events/aen-meetup-performance-investigations-hapi-fhir-jpa-server-tuning/talks/16982)
 * ✅ 🇷🇺 [Podlodka Backend Crew Meetup](https://podlodka.io/becrew#buy)
-* ✅ 🇬🇧 [in progress] [Performance Battle - Fight 1 - Spring Boot Web vs Spring Boot Web Native](https://github.com/fragaLY) [~ end of August 2022. In scope of different EPAM Communities and ASE Community for sure]
-* ❎ 🇬🇧 [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 30 August 2022]
+* ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Boot Web vs Spring Boot as Web Native](https://wearecommunity.io/events/codeberry-club-conference-uk/talks/45683)
+* ❎ 🇬🇧 [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive vs Spring Boot Reactive as Native](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 30 August 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 30 September 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 30 October 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native [~ 30 November 2022]
@@ -26,7 +26,7 @@
 * ✅	🇬🇧 [Spring Kafka Typical Settings](https://github.com/fragaLY/blog/blob/main/spring-kafka/SPRING-KAFKA-TYPICAL-SETTINGS.md)
 * ✅	🇬🇧 [Custom Postgres Docker image with predefined data](https://github.com/fragaLY/blog/blob/main/postgres-custom-image/POSTGRES-CUSTOM-IMAGE.md)
 * ✅ 🇬🇧 [Gatling Java Gradle Setup](https://github.com/fragaLY/blog/blob/main/gatling-java-gradle-setup/GATLING-JAVA-GRADLE-SETUP.md)
-* ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Boot Web vs Spring Boot Web Native](https://github.com/fragaLY/blog/blob/main/spring-boot-web_vs_spring-boot-web-native/SPRING-BOOT-WEB_VS_SPRING-BOOT-WEB-NATIVE.md)
+* ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Boot Web vs Spring Boot Web as Native](https://github.com/fragaLY/blog/blob/main/spring-boot-web_vs_spring-boot-web-native/SPRING-BOOT-WEB_VS_SPRING-BOOT-WEB-NATIVE.md)
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 2] [Spring Boot Reactive](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) vs Spring Boot Reactive Native [~ 30 August 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native [~ 30 September 2022]
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native [~ 30 October 2022]
