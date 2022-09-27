@@ -27,7 +27,7 @@
 * ✅	🇬🇧 [Custom Postgres Docker image with predefined data](https://github.com/fragaLY/blog/blob/main/postgres-custom-image/POSTGRES-CUSTOM-IMAGE.md)
 * ✅ 🇬🇧 [Gatling Java Gradle Setup](https://github.com/fragaLY/blog/blob/main/gatling-java-gradle-setup/GATLING-JAVA-GRADLE-SETUP.md)
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Boot Web vs Spring Boot Web as Native](https://github.com/fragaLY/blog/blob/main/spring-boot-web_vs_spring-boot-web-native/SPRING-BOOT-WEB_VS_SPRING-BOOT-WEB-NATIVE.md)
-* ❎ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://github.com/fragaLY/blog/blob/main/spring-boot-reactive_vs_spring-boot-reactive-native/SPRING-BOOT-REACTIVE_VS_SPRING-BOOT-REACTIVE-NATIVE.md)
+* ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://github.com/fragaLY/blog/blob/main/spring-boot-reactive_vs_spring-boot-reactive-native/SPRING-BOOT-REACTIVE_VS_SPRING-BOOT-REACTIVE-NATIVE.md)
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
 * ❎ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
