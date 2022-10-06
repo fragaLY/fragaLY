@@ -18,7 +18,7 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC and HTTP2 for the solution with best performace
+* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC and HTTP2 for the solution with the best performace
 
 ### ✍️ RESEARCHES AND SOME NOTES
 
@@ -33,7 +33,7 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC and HTTP2 for the solution with best performace
+* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC and HTTP2 for the solution with the best performace
 
 ### 🌐 PUBLIC ACTIVITY
 
@@ -50,7 +50,7 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC and HTTP2 for the solution with best performace
+* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC and HTTP2 for the solution with the best performace
 
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=advanced)
 ![kotlin](https://img.shields.io/static/v1?logo=kotlin&style=for-the-badge&label=kotlin&message=intermediate)
