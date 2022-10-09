@@ -12,13 +12,13 @@
 * ✅	🇷🇺 [HAPI FHIR JPA Server Performance Tuning](https://wearecommunity.io/events/aen-meetup-performance-investigations-hapi-fhir-jpa-server-tuning/talks/16982)
 * ✅ 🇷🇺 [Podlodka Backend Crew Meetup](https://podlodka.io/becrew#buy)
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring as Web Native](https://www.youtube.com/watch?v=SgBSDg44OyA)
-* ❌ 🇬🇧 [planned] [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, and Virtual Threads for the solution with the best performace
+* ❌ 🇬🇧 [planned ~ EO October 2022] [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native]()
+* ❌ 🇬🇧 [planned ~ EO November 2022] [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native]()
+* ❌ 🇬🇧 [planned ~ EO January 2023] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
+* ❌ 🇬🇧 [planned ~ EO March 2023] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
+* ❌ 🇬🇧 [planned ~ EO June 2023] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
+* ❌ 🇬🇧 [planned ~ EO August 2023] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
+* ❌ 🇬🇧 [planned ~ EO October 2023] [Performance Battle] [Final] Migrate to GRPC, HTTP2, and Virtual Threads for the solution with the best performace
 
 ### ✍️ RESEARCHES AND SOME NOTES
 
@@ -28,7 +28,7 @@
 * ✅ 🇬🇧 [Gatling Java Gradle Setup](https://github.com/fragaLY/blog/blob/main/gatling-java-gradle-setup/GATLING-JAVA-GRADLE-SETUP.md)
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring Web as Native](https://github.com/fragaLY/blog/blob/main/spring-boot-web_vs_spring-boot-web-native/SPRING-BOOT-WEB_VS_SPRING-BOOT-WEB-NATIVE.md)
 * ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://github.com/fragaLY/blog/blob/main/spring-boot-reactive_vs_spring-boot-reactive-native/SPRING-BOOT-REACTIVE_VS_SPRING-BOOT-REACTIVE-NATIVE.md)
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 3] [Quarkus](https://quarkus.io/) vs Quarkus Native
+* ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://github.com/fragaLY/blog/blob/main/quarkus-reactive_vs_quarkus-reactive-native/QUARKUS-REACTIVE_VS_QUARKUS-REACTIVE-NATIVE.md)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
