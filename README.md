@@ -18,7 +18,7 @@
 * ❌ 🇬🇧 [planned ~ EO March 2023] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned ~ EO June 2023] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned ~ EO August 2023] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
-* ❌ 🇬🇧 [planned ~ EO October 2023] [Performance Battle] [Final] Migrate to GRPC, HTTP2, and Virtual Threads for the solution with the best performace
+* ❌ 🇬🇧 [planned ~ EO October 2023] [Performance Battle] [Final] Migrate to GRPC, HTTP2, and Virtual Threads for the solution with the best performace. Adding caches.
 
 ### ✍️ RESEARCHES AND SOME NOTES
 
