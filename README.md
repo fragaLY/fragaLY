@@ -12,7 +12,7 @@
 * ✅	🇷🇺 [HAPI FHIR JPA Server Performance Tuning](https://wearecommunity.io/events/aen-meetup-performance-investigations-hapi-fhir-jpa-server-tuning/talks/16982)
 * ✅ 🇷🇺 [Podlodka Backend Crew Meetup](https://podlodka.io/becrew#buy)
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring as Web Native](https://www.youtube.com/watch?v=SgBSDg44OyA)
-* ❌ 🇬🇧 [planned ~ EO November 2022] [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native]()
+* ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://www.youtube.com/watch?v=dNG4xYFfB-Y)
 * ❌ 🇬🇧 [planned ~ EO November 2022] [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native]()
 * ❌ 🇬🇧 [planned 8 December 2022] [Honey, I stress tested shrank images!](https://wearecommunity.io/events/java-on-2022/talks/48558)
 * ❌ 🇬🇧 [planned ~ EO December 2023] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
