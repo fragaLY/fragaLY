@@ -14,7 +14,7 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring as Web Native](https://www.youtube.com/watch?v=SgBSDg44OyA)
 * ❌ 🇬🇧 [planned ~ EO November 2022] [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native]()
 * ❌ 🇬🇧 [planned ~ EO November 2022] [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native]()
-* ❌ 🇬 [planned 8 December 2022] [Honey, I stress tested shrank images!](https://wearecommunity.io/events/java-on-2022/talks/48558)
+* ❌ 🇬🇧 [planned 8 December 2022] [Honey, I stress tested shrank images!](https://wearecommunity.io/events/java-on-2022/talks/48558)
 * ❌ 🇬🇧 [planned ~ EO December 2023] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
 * ❌ 🇬🇧 [planned ~ EO January 2023] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned ~ EO February 2023] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
@@ -48,7 +48,7 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6983812601482760193-7q4f?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus vs Quarkus as Native](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6986773381769519104-UI4y?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [My Gists with Google Cloud Architecture Challenges](https://www.linkedin.com/posts/vadzimkavalkou_google-cloud-challenge-labs-activity-6993109014775533568-HYxW?utm_source=share&utm_medium=member_desktop)
-* ✅ 🇬 [Gryped Quarkus 'minimal-base-image' vs 'distrolles'](https://www.linkedin.com/posts/vadzimkavalkou_secops-security-distroless-activity-6987755599891476480-BBMk?utm_source=share&utm_medium=member_desktop)
+* ✅ 🇬🇧 [Gryped Quarkus 'minimal-base-image' vs 'distrolles'](https://www.linkedin.com/posts/vadzimkavalkou_secops-security-distroless-activity-6987755599891476480-BBMk?utm_source=share&utm_medium=member_desktop)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
