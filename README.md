@@ -13,7 +13,7 @@
 * ✅ 🇷🇺 [Podlodka Backend Crew Meetup](https://podlodka.io/becrew#buy)
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring as Web Native](https://www.youtube.com/watch?v=SgBSDg44OyA)
 * ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://www.youtube.com/watch?v=dNG4xYFfB-Y)
-* ❌ 🇬🇧 [planned ~ EO November 2022] [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native]()
+* ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://www.youtube.com/watch?v=eU_ZgKcaPLI)
 * ❌ 🇬🇧 [planned 8 December 2022] [Honey, I stress tested shrank images!](https://wearecommunity.io/events/java-on-2022/talks/48558)
 * ❌ 🇬🇧 [planned ~ EO December 2023] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
 * ❌ 🇬🇧 [planned ~ EO January 2023] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
