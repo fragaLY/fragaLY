@@ -14,8 +14,8 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring as Web Native](https://www.youtube.com/watch?v=SgBSDg44OyA)
 * ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://www.youtube.com/watch?v=dNG4xYFfB-Y)
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://www.youtube.com/watch?v=eU_ZgKcaPLI)
-* ❌ 🇬🇧 [planned 8 December 2022] [Honey, I stress tested shrank images!](https://wearecommunity.io/events/java-on-2022/talks/48558)
-* ❌ 🇬🇧 [planned ~ EO December 2023] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
+* ✅ 🇬🇧 [Honey, I stress tested shrank images!]([https://wearecommunity.io/events/java-on-2022/talks/48558](https://www.youtube.com/watch?v=D6AjwGVLyGM&t=1530s)
+* ❌ 🇬🇧 [planned ~ EO December 2022] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
 * ❌ 🇬🇧 [planned ~ EO January 2023] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned ~ EO February 2023] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned ~ EO March 2023] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
