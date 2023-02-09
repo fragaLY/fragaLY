@@ -51,6 +51,8 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus vs Quarkus as Native](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-6986773381769519104-UI4y?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [My Gists with Google Cloud Architecture Challenges](https://www.linkedin.com/posts/vadzimkavalkou_google-cloud-challenge-labs-activity-6993109014775533568-HYxW?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [Gryped Quarkus 'minimal-base-image' vs 'distrolles'](https://www.linkedin.com/posts/vadzimkavalkou_secops-security-distroless-activity-6987755599891476480-BBMk?utm_source=share&utm_medium=member_desktop)
+* ✅ 🇬🇧 [Gatling Custom Ids in use](https://www.linkedin.com/posts/vadzimkavalkou_gatling-with-custom-ids-activity-7022190938970021888-NqUn?utm_source=share&utm_medium=member_desktop)
+* ✅ 🇬🇧 [Spring Cloud Config Server based on Git Repository and Vault](https://www.linkedin.com/posts/vadzimkavalkou_spring-cloud-config-server-vault-and-git-activity-7028622449873158144-xVQ_?utm_source=share&utm_medium=member_desktop)
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
