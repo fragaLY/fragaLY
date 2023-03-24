@@ -14,7 +14,7 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring as Web Native](https://www.youtube.com/watch?v=SgBSDg44OyA)
 * ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://www.youtube.com/watch?v=dNG4xYFfB-Y)
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://www.youtube.com/watch?v=eU_ZgKcaPLI)
-* ✅ 🇬🇧 [Honey, I stress tested shrank images!](https://www.youtube.com/watch?v=D6AjwGVLyGM&t=1530s)
+* ✅ 🇬🇧 [Honey, I stress tested shrank images!](https://www.youtube.com/watch?v=nHROCuh-ZOs)
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
