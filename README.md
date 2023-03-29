@@ -55,6 +55,7 @@
 * ✅ 🇬🇧 [Spring Cloud Config Server based on Git Repository and Vault](https://www.linkedin.com/posts/vadzimkavalkou_spring-cloud-config-server-vault-and-git-activity-7028622449873158144-xVQ_?utm_source=share&utm_medium=member_desktop)
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 * ✅ 🇬🇧 [Performance Battle - Fight 4 - Micronaut vs Micronaut as Native](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-7034836488940851200-JTVE?utm_source=share&utm_medium=member_desktop)
+* ✅ 🇬🇧 [C4 Modeling and Deployment diagram](https://www.linkedin.com/posts/vadzimkavalkou_c4-modeling-activity-7046789058521370624-71Vs?utm_source=share&utm_medium=member_desktop)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
