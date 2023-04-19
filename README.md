@@ -16,7 +16,7 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://www.youtube.com/watch?v=eU_ZgKcaPLI)
 * ✅ 🇬🇧 [Honey, I stress tested shrank images!](https://www.youtube.com/watch?v=nHROCuh-ZOs)
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 4] [Micronaut](https://micronaut.io/) vs Micronaut Native
+* ✅ 🇬🇧 [Performance Battle - Fight 4 Micronaut Reactive vs Micronaut Reactive as Native](https://www.youtube.com/live/H79XFntaRxU)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
