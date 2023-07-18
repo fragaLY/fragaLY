@@ -15,13 +15,14 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://www.youtube.com/watch?v=dNG4xYFfB-Y)
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://www.youtube.com/watch?v=eU_ZgKcaPLI)
 * ✅ 🇬🇧 [Honey, I stress-tested shrank images!](https://www.youtube.com/watch?v=nHROCuh-ZOs)
-* ❌ 🇬🇧 [planned] [The Open Network](localhost)
 * ✅ 🇬🇧 [Performance Battle - Fight 4 Micronaut Reactive vs Micronaut Reactive as Native](https://www.youtube.com/live/H79XFntaRxU)
 * ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://wearecommunity.io/events/implementing-sdmx-api-with-neo4j)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
+* ❌ 🇬🇧 [planned] [The Open Network](localhost)
+
 
 ### ✍️ RESEARCH AND SOME NOTES
 
@@ -32,7 +33,6 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring Web as Native](https://github.com/fragaLY/blog/blob/main/spring-boot-web_vs_spring-boot-web-native/SPRING-BOOT-WEB_VS_SPRING-BOOT-WEB-NATIVE.md)
 * ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://github.com/fragaLY/blog/blob/main/spring-boot-reactive_vs_spring-boot-reactive-native/SPRING-BOOT-REACTIVE_VS_SPRING-BOOT-REACTIVE-NATIVE.md)
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://github.com/fragaLY/blog/blob/main/quarkus-reactive_vs_quarkus-reactive-native/QUARKUS-REACTIVE_VS_QUARKUS-REACTIVE-NATIVE.md)
-* ❌ 🇬🇧 [planned] [The Open Network](localhost)
 * ✅ 🇬🇧 [Performance Battle - Fight 4 - Micronaut vs Micronaut Native](https://github.com/fragaLY/blog/blob/main/micronaut-reactive_vs_micronaut-reactive-native/MICRONAUT-REACTIVE_VS_MICRONAUT-REACTIVE-NATIVE.md)
 * ✅ 🇬🇧 [Jib and Distroless saving your time and money](https://github.com/fragaLY/blog/blob/main/jib-distroless/JIB-DISTROLESS.md)
 * ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://www.linkedin.com/posts/vadzimkavalkou_implementing-sdmx-api-with-neo4j-community-activity-7087074720973488128-kXvT?utm_source=share&utm_medium=member_desktop)
@@ -40,6 +40,7 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
+* ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
 ### 🌐 PUBLIC ACTIVITY
 
@@ -56,7 +57,6 @@
 * ✅ 🇬🇧 [Gryped Quarkus 'minimal-base-image' vs 'distrolles'](https://www.linkedin.com/posts/vadzimkavalkou_secops-security-distroless-activity-6987755599891476480-BBMk?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [Gatling Custom Ids in use](https://www.linkedin.com/posts/vadzimkavalkou_gatling-with-custom-ids-activity-7022190938970021888-NqUn?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [Spring Cloud Config Server based on Git Repository and Vault](https://www.linkedin.com/posts/vadzimkavalkou_spring-cloud-config-server-vault-and-git-activity-7028622449873158144-xVQ_?utm_source=share&utm_medium=member_desktop)
-* ❌ 🇬🇧 [planned] [The Open Network](localhost)
 * ✅ 🇬🇧 [Performance Battle - Fight 4 - Micronaut vs Micronaut as Native](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-7034836488940851200-JTVE?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [C4 Modeling and Deployment diagram](https://www.linkedin.com/posts/vadzimkavalkou_c4-modeling-activity-7046789058521370624-71Vs?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [Jib and Distroless saving money for building, storing, and transferring images.](https://www.linkedin.com/pulse/jib-distroless-saving-money-building-storing-images-vadzim-kavalkou/?trackingId=rD%2Fn44CtRgSmGv1%2FzYrgJQ%3D%3D)
@@ -64,6 +64,7 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
+* ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=advanced)
 ![kotlin](https://img.shields.io/static/v1?logo=kotlin&style=for-the-badge&label=kotlin&message=intermediate)
