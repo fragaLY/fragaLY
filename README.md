@@ -14,15 +14,16 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring as Web Native](https://www.youtube.com/watch?v=SgBSDg44OyA)
 * ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://www.youtube.com/watch?v=dNG4xYFfB-Y)
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://www.youtube.com/watch?v=eU_ZgKcaPLI)
-* ✅ 🇬🇧 [Honey, I stress tested shrank images!](https://www.youtube.com/watch?v=nHROCuh-ZOs)
+* ✅ 🇬🇧 [Honey, I stress-tested shrank images!](https://www.youtube.com/watch?v=nHROCuh-ZOs)
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 * ✅ 🇬🇧 [Performance Battle - Fight 4 Micronaut Reactive vs Micronaut Reactive as Native](https://www.youtube.com/live/H79XFntaRxU)
+* ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://wearecommunity.io/events/implementing-sdmx-api-with-neo4j)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?, PG15, and Virtual Threads the solution with the best performace by default. Finally adding caches and blackjack.
+* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
 
-### ✍️ RESEARCHES AND SOME NOTES
+### ✍️ RESEARCH AND SOME NOTES
 
 * ✅	🇬🇧 [HAPI FHIR JPA Server Performance Tuning](https://github.com/fragaLY/blog/blob/main/hapi-fhir-jpaserver/HAPI-FHIR-JPASERVER.md)
 * ✅	🇬🇧 [Spring Kafka Typical Settings](https://github.com/fragaLY/blog/blob/main/spring-kafka/SPRING-KAFKA-TYPICAL-SETTINGS.md)
@@ -34,10 +35,11 @@
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 * ✅ 🇬🇧 [Performance Battle - Fight 4 - Micronaut vs Micronaut Native](https://github.com/fragaLY/blog/blob/main/micronaut-reactive_vs_micronaut-reactive-native/MICRONAUT-REACTIVE_VS_MICRONAUT-REACTIVE-NATIVE.md)
 * ✅ 🇬🇧 [Jib and Distroless saving your time and money](https://github.com/fragaLY/blog/blob/main/jib-distroless/JIB-DISTROLESS.md)
+* ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://www.linkedin.com/posts/vadzimkavalkou_implementing-sdmx-api-with-neo4j-community-activity-7087074720973488128-kXvT?utm_source=share&utm_medium=member_desktop)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performace by default. Finally adding caches and blackjack.
+* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
 
 ### 🌐 PUBLIC ACTIVITY
 
@@ -61,7 +63,7 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performace by default. Finally adding caches and blackjack.
+* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
 
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=advanced)
 ![kotlin](https://img.shields.io/static/v1?logo=kotlin&style=for-the-badge&label=kotlin&message=intermediate)
