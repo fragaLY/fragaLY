@@ -4,11 +4,8 @@
      alt="vadzimkavalkou" />
   </a>
 </p>
-<p>
-  <a href="https://github.com/fragaly" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/? 
-    user=fragaly&theme=dark&hide_border=true"/>
-  </a>
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fragaly&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ### 💻 ENGINEER AND THAT'S IT
