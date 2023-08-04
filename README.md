@@ -1,8 +1,3 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true"    alt="vadzimkavalkou"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fragaly&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
 ### 💻 ENGINEER AND THAT'S IT
 
 *  Chief Software Engineer in Advance Software Engineering Department at [EPAM Systems](http://epam.com/).
@@ -19,7 +14,8 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://www.youtube.com/watch?v=eU_ZgKcaPLI)
 * ✅ 🇬🇧 [Honey, I stress-tested shrank images!](https://www.youtube.com/watch?v=nHROCuh-ZOs)
 * ✅ 🇬🇧 [Performance Battle - Fight 4 Micronaut Reactive vs Micronaut Reactive as Native](https://www.youtube.com/live/H79XFntaRxU)
-* ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://wearecommunity.io/events/implementing-sdmx-api-with-neo4j)
+* ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://www.youtube.com/watch?v=SkmhdCaicm8)
+* ✅ 🇬🇧 [JIB and Distroless: shrinking sizes and vulnerabilities](https://www.youtube.com/watch?v=tntpTSfTZ88)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
@@ -68,6 +64,10 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true"    alt="vadzimkavalkou"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fragaly&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=advanced)
 ![kotlin](https://img.shields.io/static/v1?logo=kotlin&style=for-the-badge&label=kotlin&message=intermediate)
