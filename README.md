@@ -1,4 +1,15 @@
-<p align="center"><a href="https://github.com/fragaly" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true" alt="vadzimkavalkou" /></a></p>
+<p align="center">
+  <a href="https://github.com/fragaly" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?  
+     username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true" 
+     alt="vadzimkavalkou" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/fragaly" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/? 
+    user=fragaly&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
 
 ### 💻 ENGINEER AND THAT'S IT
 
