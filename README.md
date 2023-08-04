@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://github.com/fragaly" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?  
-     username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true" 
-     alt="vadzimkavalkou" />
-  </a>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true"    alt="vadzimkavalkou"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fragaly&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
