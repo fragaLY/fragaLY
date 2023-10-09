@@ -69,7 +69,7 @@
 ![kotlin](https://img.shields.io/static/v1?logo=kotlin&style=for-the-badge&label=kotlin&message=intermediate)
 ![spring](https://img.shields.io/static/v1?logo=spring&style=for-the-badge&label=spring&message=advanced)
 ![gradle](https://img.shields.io/static/v1?logo=gradle&style=for-the-badge&label=gradle&message=intermediate)
-![gcp](https://img.shields.io/static/v1?logo=googlecloud&style=for-the-badge&label=GCP&message=advanced)
+![gcp](https://img.shields.io/static/v1?logo=googlecloud&style=for-the-badge&label=GCP&message=intermediate)
 -------------
 [ ![gists](https://img.shields.io/static/v1?logo=github&style=for-the-badge&label=gists&message=fragaLY)](https://gist.github.com/fragaLY)
 [ ![google](https://img.shields.io/static/v1?logo=googlecloud&style=for-the-badge&label=GCP&message=profile)](https://partner.cloudskillsboost.google/public_profiles/e9c751fc-07fb-4c0e-b835-71d09d355ec4)
