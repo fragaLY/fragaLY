@@ -18,7 +18,6 @@
 * ✅ 🇬🇧 [JIB and Distroless: shrinking sizes and vulnerabilities](https://www.youtube.com/watch?v=tntpTSfTZ88)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
@@ -36,8 +35,6 @@
 * ✅ 🇬🇧 [Jib and Distroless saving your time and money](https://github.com/fragaLY/blog/blob/main/jib-distroless/JIB-DISTROLESS.md)
 * ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://www.linkedin.com/posts/vadzimkavalkou_implementing-sdmx-api-with-neo4j-community-activity-7087074720973488128-kXvT?utm_source=share&utm_medium=member_desktop)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
@@ -61,7 +58,6 @@
 * ✅ 🇬🇧 [Jib and Distroless saving money for building, storing, and transferring images.](https://www.linkedin.com/pulse/jib-distroless-saving-money-building-storing-images-vadzim-kavalkou/?trackingId=rD%2Fn44CtRgSmGv1%2FzYrgJQ%3D%3D)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 7] [Ktor](https://ktor.io/) vs Ktor Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
