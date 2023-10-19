@@ -60,7 +60,7 @@
 * ✅ 🇬🇧 [JavaON Conference 2023: Java Image Builder and Distroless.](https://www.linkedin.com/posts/vadzimkavalkou_javaon-conference-java-activity-7120036198290497539-I7Fl?utm_source=share&utm_medium=member_desktop)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
+* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG16, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true"    alt="vadzimkavalkou"/>
