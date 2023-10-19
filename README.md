@@ -12,10 +12,11 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 1 - Spring Web vs Spring as Web Native](https://www.youtube.com/watch?v=SgBSDg44OyA)
 * ✅ 🇬🇧 [Performance Battle - Fight 2 - Spring Reactive vs Spring Reactive as Native](https://www.youtube.com/watch?v=dNG4xYFfB-Y)
 * ✅ 🇬🇧 [Performance Battle - Fight 3 - Quarkus Reactive vs Quarkus Reactive as Native](https://www.youtube.com/watch?v=eU_ZgKcaPLI)
-* ✅ 🇬🇧 [Honey, I stress-tested shrank images!](https://www.youtube.com/watch?v=nHROCuh-ZOs)
+* ✅ 🇬🇧 [JavaON Conference 2022: Honey, I stress-tested shrank images!](https://www.youtube.com/watch?v=nHROCuh-ZOs)
 * ✅ 🇬🇧 [Performance Battle - Fight 4 Micronaut Reactive vs Micronaut Reactive as Native](https://www.youtube.com/live/H79XFntaRxU)
 * ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://www.youtube.com/watch?v=SkmhdCaicm8)
 * ✅ 🇬🇧 [JIB and Distroless: shrinking sizes and vulnerabilities](https://www.youtube.com/watch?v=tntpTSfTZ88)
+* ✅ 🇬🇧 [JavaON Conference 2023: Java Image Builder and Distroless.](https://wearecommunity.io/events/java-on-2023)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
@@ -56,6 +57,7 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 4 - Micronaut vs Micronaut as Native](https://www.linkedin.com/posts/vadzimkavalkou_github-fragalyblog-my-technical-investigations-activity-7034836488940851200-JTVE?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [C4 Modeling and Deployment diagram](https://www.linkedin.com/posts/vadzimkavalkou_c4-modeling-activity-7046789058521370624-71Vs?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [Jib and Distroless saving money for building, storing, and transferring images.](https://www.linkedin.com/pulse/jib-distroless-saving-money-building-storing-images-vadzim-kavalkou/?trackingId=rD%2Fn44CtRgSmGv1%2FzYrgJQ%3D%3D)
+* ✅ 🇬🇧 [JavaON Conference 2023: Java Image Builder and Distroless.](https://www.linkedin.com/posts/vadzimkavalkou_javaon-conference-java-activity-7120036198290497539-I7Fl?utm_source=share&utm_medium=member_desktop)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
