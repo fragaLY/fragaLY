@@ -77,3 +77,5 @@
 [ ![google](https://img.shields.io/static/v1?logo=googlecloud&style=for-the-badge&label=GCP&message=profile)](https://partner.cloudskillsboost.google/public_profiles/e9c751fc-07fb-4c0e-b835-71d09d355ec4)
 [ ![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&label=linkedin&message=vadzimkavalkou)](https://www.linkedin.com/in/vadzimkavalkou/)
 [ ![instagram](https://img.shields.io/static/v1?logo=instagram&style=for-the-badge&label=instagram&message=marnotrawny.syn)](https://www.instagram.com/marnotrawny.syn/)
+-------------
+![donates](qr.png)
