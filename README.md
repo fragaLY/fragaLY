@@ -16,7 +16,7 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 4 Micronaut Reactive vs Micronaut Reactive as Native](https://www.youtube.com/live/H79XFntaRxU)
 * ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://www.youtube.com/watch?v=SkmhdCaicm8)
 * ✅ 🇬🇧 [JIB and Distroless: shrinking sizes and vulnerabilities](https://www.youtube.com/watch?v=tntpTSfTZ88)
-* ✅ 🇬🇧 [JavaON Conference 2023: Java Image Builder and Distroless.](https://wearecommunity.io/events/java-on-2023)
+* ✅ 🇬🇧 [JavaON Conference 2023: Java Image Builder and Distroless.](https://www.youtube.com/live/JyZ_hbTxcXw?si=pkTbmTFra6icv59f&t=8647) 
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?, PG15, and Virtual Threads the solution with the best performance by default. Finally adding caches and blackjack.
