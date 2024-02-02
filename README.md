@@ -36,6 +36,7 @@
 * ✅ 🇬🇧 [Jib and Distroless saving your time and money](https://github.com/fragaLY/blog/blob/main/jib-distroless/JIB-DISTROLESS.md)
 * ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://www.linkedin.com/posts/vadzimkavalkou_implementing-sdmx-api-with-neo4j-community-activity-7087074720973488128-kXvT?utm_source=share&utm_medium=member_desktop)
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
+* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?
 * ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
