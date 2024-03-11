@@ -20,7 +20,6 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?
-* ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
 
 ### ✍️ RESEARCH AND SOME NOTES
@@ -38,7 +37,6 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?
-* ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
 ### 🌐 PUBLIC ACTIVITY
 
@@ -62,7 +60,6 @@
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
 * ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?
-* ❌ 🇬🇧 [planned] [The Open Network](localhost)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true"    alt="vadzimkavalkou"/>
 
