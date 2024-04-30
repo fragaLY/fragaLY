@@ -17,10 +17,6 @@
 * ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://www.youtube.com/watch?v=SkmhdCaicm8)
 * ✅ 🇬🇧 [JIB and Distroless: shrinking sizes and vulnerabilities](https://www.youtube.com/watch?v=tntpTSfTZ88)
 * ✅ 🇬🇧 [JavaON Conference 2023: Java Image Builder and Distroless.](https://www.youtube.com/live/JyZ_hbTxcXw?si=pkTbmTFra6icv59f&t=8647) 
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?
-
 
 ### ✍️ RESEARCH AND SOME NOTES
 
@@ -34,10 +30,7 @@
 * ✅ 🇬🇧 [Performance Battle - Fight 4 - Micronaut vs Micronaut Native](https://github.com/fragaLY/blog/blob/main/micronaut-reactive_vs_micronaut-reactive-native/MICRONAUT-REACTIVE_VS_MICRONAUT-REACTIVE-NATIVE.md)
 * ✅ 🇬🇧 [Jib and Distroless saving your time and money](https://github.com/fragaLY/blog/blob/main/jib-distroless/JIB-DISTROLESS.md)
 * ✅ 🇬🇧 [Implementing SDMX API with Neo4j](https://www.linkedin.com/posts/vadzimkavalkou_implementing-sdmx-api-with-neo4j-community-activity-7087074720973488128-kXvT?utm_source=share&utm_medium=member_desktop)
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?
-
+  
 ### 🌐 PUBLIC ACTIVITY
 
 * ✅	🇬🇧 [Gitlab CI/CD for Openshit with Minio Cache support, Grype Scan and Sonar linting](https://www.linkedin.com/posts/vadzimkavalkou_gitlab-cicd-for-openshit-with-minio-cache-activity-6925076570030137344-7hw1?utm_source=linkedin_share&utm_medium=member_desktop_web)
@@ -57,9 +50,6 @@
 * ✅ 🇬🇧 [C4 Modeling and Deployment diagram](https://www.linkedin.com/posts/vadzimkavalkou_c4-modeling-activity-7046789058521370624-71Vs?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [Jib and Distroless saving money for building, storing, and transferring images.](https://www.linkedin.com/pulse/jib-distroless-saving-money-building-storing-images-vadzim-kavalkou/?trackingId=rD%2Fn44CtRgSmGv1%2FzYrgJQ%3D%3D)
 * ✅ 🇬🇧 [JavaON Conference 2023: Java Image Builder and Distroless.](https://www.linkedin.com/posts/vadzimkavalkou_javaon-conference-java-activity-7120036198290497539-I7Fl?utm_source=share&utm_medium=member_desktop)
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 5] [Vert.x](https://vertx.io/) vs Vert.x Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Fight 6] [Helidon](https://helidon.io/) vs Helidon Native
-* ❌ 🇬🇧 [planned] [Performance Battle] [Final] Migrate to GRPC, HTTP2/QUIC?
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true"    alt="vadzimkavalkou"/>
 
