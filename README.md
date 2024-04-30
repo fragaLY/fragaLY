@@ -66,4 +66,3 @@
 [ ![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&label=linkedin&message=vadzimkavalkou)](https://www.linkedin.com/in/vadzimkavalkou/)
 [ ![instagram](https://img.shields.io/static/v1?logo=instagram&style=for-the-badge&label=instagram&message=marnotrawny.syn)](https://www.instagram.com/marnotrawny.syn/)
 -------------
-![donates](qr.png)
