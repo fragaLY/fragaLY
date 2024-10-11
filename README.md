@@ -1,10 +1,12 @@
 ### 💻 Chief Software Engineer
 
 ## 🤝 Brief Introduction
-*  Chief Software Engineer in Advance Software Engineering Department at [EPAM Systems](http://epam.com/).
-*  T-shaped person with core knowledge in the JVM stack area. 
+*  Chief Software Engineer (B2) in Advance Software Engineering Department at [EPAM Systems](http://epam.com/).
+*  T-shaped person with core knowledge in the JVM stack area.
 *  Proven practical experience in development with [Java](https://www.java.com/en/), [Spring Framework](https://spring.io/projects/spring-boot), [JIB](https://github.com/GoogleContainerTools/jib), [Docker](https://www.docker.com/), [Open API](https://www.openapis.org/), [Gradle](https://gradle.org/), [Postgres](https://www.postgresql.org/), [Flyway](https://flywaydb.org/).
 *  Familiar with [Kotlin](https://kotlinlang.org/), [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/), [GitHub Actions](https://github.com/features/actions), [Gitlab CI](https://docs.gitlab.com/ee/ci/), [JMeter](https://jmeter.apache.org/), [Gatling](https://gatling.io/), [GCP](https://cloud.google.com/gcp/).
+*  Developing in algorithmic trading using [BYBIT API](https://bybit-exchange.github.io/docs/v5/intro), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [AI](https://spring.io/projects/spring-ai), [ScyllaDB](https://www.scylladb.com).
+*  Investigating performance tuning for high load processing application based on [Elastic](https://www.elastic.co), [ScyllaDB](https://www.scylladb.com), [Temporal](https://temporal.io).
 
 ## 🎥 TECHTALKS
 * ✅	🇷🇺 [HAPI FHIR JPA Server Performance Tuning](https://wearecommunity.io/events/aen-meetup-performance-investigations-hapi-fhir-jpa-server-tuning/talks/16982)
