@@ -7,6 +7,7 @@
 *  Familiar with [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/), [GitHub Actions](https://github.com/features/actions), [Gitlab CI](https://docs.gitlab.com/ee/ci/), [Gatling](https://gatling.io/), [GCP](https://cloud.google.com/gcp/).
 *  Developing in algorithmic trading using [BYBIT API](https://bybit-exchange.github.io/docs/v5/intro), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [AI](https://spring.io/projects/spring-ai), [ScyllaDB](https://www.scylladb.com).
 *  Investigating performance tuning for high load processing application based on [Elastic](https://www.elastic.co), [ScyllaDB](https://www.scylladb.com), [Temporal](https://temporal.io).
+*  Architected and Adopted AI Agents.
 
 ## 🎥 TECHTALKS
 * ✅	🇷🇺 [HAPI FHIR JPA Server Performance Tuning](https://wearecommunity.io/events/aen-meetup-performance-investigations-hapi-fhir-jpa-server-tuning/talks/16982)
