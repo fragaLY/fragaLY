@@ -51,7 +51,7 @@
 * ✅ 🇬🇧 [C4 Modeling and Deployment diagram](https://www.linkedin.com/posts/vadzimkavalkou_c4-modeling-activity-7046789058521370624-71Vs?utm_source=share&utm_medium=member_desktop)
 * ✅ 🇬🇧 [Jib and Distroless saving money for building, storing, and transferring images.](https://www.linkedin.com/pulse/jib-distroless-saving-money-building-storing-images-vadzim-kavalkou/?trackingId=rD%2Fn44CtRgSmGv1%2FzYrgJQ%3D%3D)
 * ✅ 🇬🇧 [JavaON Conference 2023: Java Image Builder and Distroless.](https://www.linkedin.com/posts/vadzimkavalkou_javaon-conference-java-activity-7120036198290497539-I7Fl?utm_source=share&utm_medium=member_desktop)
-* ✅ 🇬🇧 Hacking AI Hackathon Participant for Longevity Researchers - Led and Developed AI Agent. ![](Presentation.pdf)
+* ✅ 🇬🇧 Hacking AI Hackathon Participant for Longevity Researchers - Led and Developed AI Agent. ![Presentation](Presentation.pdf)
 
 ## 📊 Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fragaly&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_progress=true"    alt="vadzimkavalkou"/>
